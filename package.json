@@ -1,0 +1,19 @@
+{
+  "name": "doc-splider",
+  "version": "1.0.0",
+  "description": "文章的爬虫",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "splider",
+    "node"
+  ],
+  "author": "Ethan",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "superagent": "^3.3.1"
+  }
+}
